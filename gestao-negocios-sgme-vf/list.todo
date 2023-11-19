@@ -1,0 +1,5 @@
+[ ] Ver com Andre como definir o ean como campo unico
+[ ] Padronizar o crud das tabelas: Receita-ok, Cliente - ok, Venda, ||Categoria e Fornecedor||
+[ ] Implementar tratativas de Erros ?
+[ ] Criar a tabela de usuarios
+[ ] Configurar acesso ao Banco
