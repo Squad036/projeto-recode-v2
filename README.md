@@ -34,6 +34,7 @@ $ npm run dev
 <li>Html</li>
 <li>Css</li>
 <li>Javascript</li>
+<li>Banco de dados: MySql</li>
 
 ## Estrutura do projeto:
 <p>A acessar o projeto sera exibido as informações sobre o sistema de Gestao de Negocios, cadastre um usuario e acesse o sistema para utilizar o sistema</p>
